@@ -1,0 +1,25 @@
+{
+  "apiVersion": "v1",
+  "id": "label/label1",
+  "type": "polygon",
+  "createdAt": "",
+  "updatedAt": "",
+  "imageId": "image/image0",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [100.0, 100.0],
+        [101.0, 100.0],
+        [101.0, 101.0],
+        [100.0, 101.0],
+        [100.0, 100.0]
+      ]
+    ]
+  },
+  "labelClass": "labelClass/labelClass0",
+  "x": 100.0,
+  "y": 100.0,
+  "height": 1.0,
+  "width": 1.0
+}

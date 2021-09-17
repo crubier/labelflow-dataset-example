@@ -1,0 +1,11 @@
+{
+  "apiVersion": "v1",
+  "id": "labelClass/labelClass0",
+  "index": 0,
+  "createdAt": "",
+  "updatedAt": "",
+  "name": "Car",
+  "color": "#aa4444",
+  "labels": ["label/label0", "label/label1"],
+  "datasetId": "crubier/labelflow-dataset-example"
+}

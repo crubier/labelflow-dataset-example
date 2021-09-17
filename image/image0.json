@@ -1,0 +1,15 @@
+{
+  "apiVersion": "v1",
+  "id": "image/image0",
+  "createdAt": "",
+  "updatedAt": "",
+  "url": "https://raw.githubusercontent.com/crubier/labelflow-dataset-example/main/file/image0.jpeg",
+  "externalUrl": null,
+  "name": "image0.jpeg",
+  "path": "my-upload-folder/image0.jpeg",
+  "mimetype": "image/jpeg",
+  "height": "2795",
+  "width": "2236",
+  "labels": ["label/label0", "label/label1"],
+  "datasetId": "crubier/labelflow-dataset-example"
+}
